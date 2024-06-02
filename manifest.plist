@@ -17,9 +17,9 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.nulls.ios</string>
+<string>nt.nb.ios</string>
 <key>bundle-version</key>
-<string></string>
+<string>55.211</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
